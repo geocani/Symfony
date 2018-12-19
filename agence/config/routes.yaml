@@ -1,0 +1,3 @@
+home: # Nom de la page
+   path: / # Chemin (ici la racine)
+   controller: App\Controller\HomeController::index #  class - ::methode 
